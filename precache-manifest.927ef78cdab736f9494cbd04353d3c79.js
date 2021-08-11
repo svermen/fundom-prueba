@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/fundom-prueba/static/media/logo.06825633.png"
   },
   {
-    "revision": "08d32285cfb4354721717396c4729ae3",
+    "revision": "690cfc08b76cdba1ca1688569bdcdbd1",
     "url": "/fundom-prueba/index.html"
   }
 ];
